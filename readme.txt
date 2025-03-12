@@ -1,6 +1,24 @@
 Informations:   SDK: Java17
 		src contient fichiertesteColon.txt, necessaire aux tests unitaires.
 
+# 🚀 Optimisation du Partage des Ressources dans une Colonie Spatiale
+
+Ce projet a pour objectif de développer un logiciel en Java permettant d’optimiser la répartition des ressources critiques au sein d’une colonie spatiale. Après chaque mission de ravitaillement, le commandant doit attribuer ces ressources aux colons en respectant au mieux leurs préférences tout en minimisant les conflits interpersonnels.
+
+L’algorithme mis en place devra :
+- Modéliser la colonie sous forme de graphe représentant les relations entre colons.
+- Prendre en compte les préférences individuelles des colons concernant les ressources.
+- Calculer le coût d’une affectation en mesurant le niveau de jalousie entre colons.
+- Trouver une répartition optimale minimisant ces conflits.
+
+Ce projet s'inscrit dans le cadre d'un exercice académique de programmation avancée et vise à explorer des solutions algorithmiques efficaces pour la gestion des ressources en environnement contraint.
+
+
+
+
+
+Informations sur le code:
+
 -La classe main se trouve dans Conquest.Main
 
 -Un algorithme plus efficace que le Naif fut implenté, il réside en Conquest.Expedition.meuilleurResultat()
