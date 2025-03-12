@@ -14,7 +14,7 @@ L’algorithme mis en place devra :
 Ce projet s'inscrit dans le cadre d'un exercice académique de programmation avancée et vise à explorer des solutions algorithmiques efficaces pour la gestion des ressources en environnement contraint.
 
 
-
+====
 
 
 Informations sur le code:
